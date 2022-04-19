@@ -4,19 +4,19 @@
     "url": "https://rizalandy.com",
     "icon": "https://favicons.githubusercontent.com/rizalandy.com",
     "slug": "rizalandy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1274,
-    "timeDay": 1135,
-    "timeWeek": 1284,
-    "timeMonth": 1274,
-    "timeYear": 1274,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 1284,
+    "timeDay": 1254,
+    "timeWeek": 1295,
+    "timeMonth": 1284,
+    "timeYear": 1284,
     "dailyMinutesDown": {
-      "2022-04-19": 0
+      "2022-04-19": 13
     }
   }
 ]
